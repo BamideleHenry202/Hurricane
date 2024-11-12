@@ -1,0 +1,498 @@
+.Group20img{
+    height: 30px;
+    width: 70px;
+}
+
+.offer{
+ list-style-type: none;   
+}
+.serv{
+    text-decoration: none;
+}
+.menu{
+    display: flex;
+ font-size: 20px;
+    justify-content: space-between;
+}
+.home{
+    width: 400px;
+    
+    
+}
+header{
+    display: flex;
+    padding: 20px 20px;
+}
+.group20{
+    margin-top: 7px;
+}
+.homw{
+    color: #39DB4A;
+}
+.search{
+    width: 20px;
+}
+.secp{
+    margin-left: 400px;
+    margin-top: 15px;
+    
+    display: flex;
+    align-items: center;
+    width: 290px;
+    justify-content: space-between;
+}
+.phone{
+    height: 20px;
+    width: 20px;
+    padding: 10px;
+}
+.phone1{
+    display: inline;
+    display: flex;
+    background-color: #39DB4A;
+ align-items: center;
+    color: white;
+    border-radius: 40%;
+    width: 100px;
+
+    
+    
+}
+.serv{
+    color: black;
+    font-size: 20px;
+}
+header{
+    align-items: center;
+}
+body{
+padding: 30px 30px;
+}
+.qwerty{
+    margin-top: 150px;
+    width: 90%;
+    
+}
+.text1{
+    font-size: 52px;
+}
+.food{
+    color:#39DB4A ;
+}
+.text2{
+    font-weight: 500;
+    font-size: 26px;
+}
+.qwertyu{
+    width: 50%;
+}
+.text3{
+    color: white;
+    background-color: #39DB4A;
+ font-size: 26px;   
+ font-weight: 600;
+ width: 150px;
+ height: 60px;
+ text-align: center;
+ border-radius: 200px;
+ align-content: center;
+}
+.text31{
+    text-decoration: none;
+}
+.text33{
+    display: flex;
+}
+.topa{
+    text-decoration: none;
+}
+.text4{
+    font-size: 26px;
+}
+.mmb{
+ display: inline;   
+ display: flex;
+ align-items: center;
+ width: 190px;
+ justify-content: space-between;
+}
+.mmm{
+    display: flex;
+    width: 400px;
+    justify-content: space-between;
+    
+}
+.qwerty{
+    display: flex;
+    
+}
+.group27{
+    top: 30px;
+}
+.favour{
+    text-align: center;
+    color: #FF6868;
+    font-size: 20px;
+    font-weight: 700;
+    
+    
+}
+.rado{
+    text-align: center;
+    font-size: 60px;
+    font-weight: 700;
+    
+}
+body{
+    font-weight: 700;
+    background-color: whitesmoke;
+}
+.harp{
+    background-color: white;
+    height: autos;
+    width: 250px;
+    align-content: center;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 20%;
+}
+.pngwing{
+    background-color: #C1F1C6;
+    border-radius: 50%;
+   margin-top: 40px;
+height: 130px;
+}
+
+.olop{
+    font-size: 30px;
+}
+.prince{
+    font-size: 22px;
+}
+.container{
+ display: grid;
+ grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-left: 40px;
+}
+.monk{
+    color: #FF6868;
+    font-size: 25px;
+    
+    font-weight: 800;
+}
+.monkey{
+    margin-top: 60px;
+    margin-left: 50px;
+}
+.opor{
+    font-size: 60px;
+}
+.harp2{
+    background-color: white;
+    width: 350px;
+    height: 500px;
+    border-radius: 15%;
+    align-items: center;
+    
+}
+.harp3{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    
+}
+.top{
+    margin-left: 211px;
+    
+    
+}
+.tickheart{
+    
+
+    position: absolute;
+    top: 25px;
+    left: 240px;
+}
+.love{
+position: relative;
+margin-left: 50px;
+
+    
+}
+.onome{
+    width: 200px;
+    margin-left: 45px;
+}
+.pott{
+    font-size: 30px;
+    margin-left: 20px;
+}
+.pot{
+font-size: 22px;
+    color: #555555;
+    margin-left:20px ;
+}
+.dollar{
+    color: #FF6868;
+}
+.thomp{
+    margin-left: 20px;
+   font-size: 24px;
+}
+.tobi{
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+}
+.oooo{
+    font-size: 24px;
+}
+.tokk{
+    width: 99%;
+    height: 1000px;
+ padding:20px 20px;
+    margin-top: 200px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+}
+.container2{
+    width: 50%;
+    position: relative;
+    padding: 10px 10px;
+}
+.down{
+    position: absolute;
+top: 330px;
+width: 500px;
+}
+.up{
+    position:relative;
+    bottom: 45px;
+}
+.pu1{
+    position: relative;
+    bottom: 120px;
+    left: 150px;
+    
+}
+
+.op{
+    position: relative;
+    bottom: 250px;
+    left: 230px;
+}
+.pizza{
+    position: absolute;
+    bottom: 520px;
+    left: 490px;
+    width: 40px;
+    height: 40px;
+}
+.tounge{
+    position: relative;
+    bottom: 500px;
+    right: 180px;
+}
+.orom{
+    color: #FF6868;
+    font-size: 20px;
+}
+.text7{
+    font-size: 60px;
+}
+.text9{
+    font-size: 26px;
+    color: #555555;
+    
+}
+.oromm{
+    position: relative;
+}
+.tinkle{
+    width: 80px;
+    position: absolute;
+}
+.cinder{
+    width: 80px;
+position: absolute;
+left: 60px;
+}
+.tomi{
+    width: 80px;
+position: absolute;
+left: 120px;
+}
+.container4{
+    display: flex;
+
+    justify-content: space-between;
+    width: 500px;
+    
+}
+.looom{
+    font-size: 26px;
+    line-height: 1.2%;
+}
+.loomm{
+    align-items: center;
+    gap: 3;
+    
+}
+.looooom{
+    margin: 0px;
+    padding: 0%;
+    width: 20px;
+    height: 20px;
+}
+.origato{
+    display: inline;
+    display: flex;
+}
+.loveme{
+    margin-bottom: 30px;
+}
+.pppp{
+    font-size: 24px;
+
+}
+.oroma{
+    display: flex;
+    
+}
+
+.thompson{
+    
+    font-size: 24px;
+}
+.roronoa{
+    color: #807E7E;
+    margin-left: 10px;
+}
+.took{
+    color: #FF6868;
+    font-size: 30px;
+}
+.pool{
+    width: 95%;
+    display: flex;
+    
+    height: 700px;
+}
+body{
+    padding: 0px 40px;
+}
+.text00{
+    font-size: 60px;
+}
+.luffy{
+    width: 50%;
+}
+.ring{
+    font-size: 26px;
+    color: #555555;
+}
+.nami{
+    text-decoration: none;
+color: white;
+
+
+font-size: 26px;
+}
+.zoro{
+    width: 150px;
+    height: 80px;
+    background-color: #39DB4A;
+    text-align: center;
+    align-content: center;
+    border-radius: 40px;
+    
+
+}
+.messi{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto auto;
+    width: 50%;
+    padding: 20px 20px;
+}
+.thiago{
+background-color: white;
+width: 240px;
+height: 300px;
+margin: 0px 20px ;
+box-shadow: 5px 10px rgba(0, 0, 0, 0.14);
+border-radius: 40px;
+margin-left: 30px;
+align-content: 100px;
+text-align: center;
+padding-right: 15px;
+padding-left: 15px;
+
+   
+}
+.salad1{
+    width: 60px;
+    height: 60px;
+    margin-top: 30px;
+}
+.text90{
+    color: #5FE26C;
+    font-size: 24px;
+}
+.orombo{
+    color: #90BD95;
+    font-size: 20px;
+}
+.footer{
+    
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+.text100{
+    font-size: 24px;
+    color: #555555;
+    
+}
+.class1{
+    font-size: 26px;
+}
+.tori{
+    text-decoration: none;
+    font-size: 24px;
+    color: #555555;
+}
+.img9{
+    background-color: #39DB4A;
+
+}
+.rokaa{
+    margin-top: 50px;
+}
+
+.loveyou{
+    width: 50px;
+    background-color: #39DB4A;
+    text-align: center;
+    height: 50px;
+    align-content: center;
+    border-radius: 100%;
+}
+.loveyoua{
+    width: 50px;
+    background-color: #EDFFEF;
+    
+    text-align: center;
+    height: 50px;
+    align-content: center;
+    border-radius: 100%;
+}
+.room{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+footer{
+    margin-top: 200px;
+}
+.room{
+width: 800px;
+}
